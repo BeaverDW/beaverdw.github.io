@@ -112,7 +112,7 @@ IS 제품 설치 목록입니다 저도 다 자세히는 알지 못하고 공식
 
 <span style="color:red">체크를 다 한 뒤 **Next** 버튼을 누르면 업데이트 사항이 있는지 확인 후 아래와 같은 화면이 나옵니다</span>
 
-![Untitled](/assets/img/2024-01-09-setup/2024-01-09-setup/Untitled%2013.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2013.png)
 
 <span style="color:red">보시면 Fix가 붙어있고 View readmes를 클릭하여 변경 내역들에 대한 readme를 읽어 보실 수 있습니다.
 **Next** 를 눌러 다음 화면으로 전환하면 아래와 같은 화면이 나옵니다</span>
