@@ -23,14 +23,14 @@ tags: [EAI, webmethods]
 
 버튼을 누른 뒤 아래와 같은 화면이 나오면 정보를 모두 입력 후 **Submit** 버튼을 눌러줍니다.
 
-![Untitled](/assets/img/Untitled.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled.png)
 
 Submit 버튼을 누르면 아래와 같은 화면이 나오는데 해당 화면에서
 Windows Installer, Windows archive, License Key를 모두 다운로드 받아 주세요.
 
 **email을 잘 입력 하셨다면 이메일로도 다운로드 링크가 전송됩니다**
 
-![Untitled](/assets/img/Untitled%201.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%201.png)
 
 - **Windows Installer**
     - Integration server 관련 제품 설치를 GUI로 도와주는 설치 도구입니다
@@ -54,7 +54,7 @@ Integration+v10.15+Free+Trial_Exp_04-30-2024.zip (**Lincese Key**) 의 압축을
 
 **Advanced Options**를 클릭 합니다.
 
-![Untitled](/assets/img/Untitled%202.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%202.png)
 
 
 <span style="color:red">1. **Images**를 클릭 합니다.</span><br>
@@ -71,25 +71,25 @@ Integration+v10.15+Free+Trial_Exp_04-30-2024.zip (**Lincese Key**) 의 압축을
 - **Server** 설치 프로그램에서 지원하지 않는 제품에 대해 액세스 할 수 있는 기능
 을 지원 합니다.
 
-![Untitled](/assets/img/Untitled%203.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%203.png)
 
-![Untitled](/assets/img/Untitled%204.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%204.png)
 
 <span style="color:red">select 버튼을 눌러 선택 후 OK 버튼을 눌러 마무리 후 첫 화면이 나오면 next 버튼을 누릅니다.</span>
 
-![Untitled](/assets/img/Untitled%205.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%205.png)
 
 - **Installation directory**
     - 설치 할 디렉토리 입니다 기본 디렉토리를 원하지 않으시면 변경하셔도 됩니다
 - **Start Menu group name**
     - 이 부분은 저도 확실하진 않으나 아마도 아래 이미지처럼 윈도우의 시작메뉴에서 서버 시작 아이콘들을 편하게 사용할 수 있게 만들어주는데 해당 그룹의 이름인것 같습니다
     
-    ![Untitled](/assets/img/Untitled%206.png)
+    ![Untitled](/assets/img/2024-01-09-setup/Untitled%206.png)
     
 
 <span style="color:red">입력이 완료되면 **Next** 버튼을 누르면 아래와 같은 화면이 나옵니다.</span>
 
-![Untitled](/assets/img/Untitled%207.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%207.png)
 
 IS 제품 설치 목록입니다 저도 다 자세히는 알지 못하고 공식문서를 찾아봤으나 8.0 이후 문서를 찾지 못하였습니다 webmethods가 SoftWareAG사에 7버전 때 인수되어 8버전부터 출시 됐는지 8.0 문서에는 지금처럼 많은 제품이 있지 않아서 해당 제품 목록들의 대한 설명은 찾는데로 업데이트 하겠습니다.
 
@@ -100,24 +100,24 @@ IS 제품 설치 목록입니다 저도 다 자세히는 알지 못하고 공식
 > 각 제품마다 라이센스가 존재하기 때문에 실무에서도 전부 다 설치 하는것이 아닌 필요한 제품마다 선택해서 설치하거나 필요한 제품들의 설치목록들을 이미지로 미리 만든다고 합니다.
 > 
 
-![Untitled](/assets/img/Untitled%208.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%208.png)
 
-![Untitled](/assets/img/Untitled%209.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%209.png)
 
-![Untitled](/assets/img/Untitled%2010.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2010.png)
 
-![Untitled](/assets/img/Untitled%2011.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2011.png)
 
-![Untitled](/assets/img/Untitled%2012.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2012.png)
 
 <span style="color:red">체크를 다 한 뒤 **Next** 버튼을 누르면 업데이트 사항이 있는지 확인 후 아래와 같은 화면이 나옵니다</span>
 
-![Untitled](/assets/img/Untitled%2013.png)
+![Untitled](/assets/img/2024-01-09-setup/2024-01-09-setup/Untitled%2013.png)
 
 <span style="color:red">보시면 Fix가 붙어있고 View readmes를 클릭하여 변경 내역들에 대한 readme를 읽어 보실 수 있습니다.
 **Next** 를 눌러 다음 화면으로 전환하면 아래와 같은 화면이 나옵니다</span>
 
-![Untitled](/assets/img/Untitled%2014.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2014.png)
 
 IS 서버는 처음 설정시 Administrator라는 계정이 기본으로 주어집니다.
 이 때 해당 계정의 비밀번호를 설정 하는 화면이고 일반적으로 로컬에서 테스트용으로 사용하는 계정의 비밀번호는 manage로 설정을 많이 하고 실제 운영 환경은 당연히 다른 비밀번호로 사용 할 것 같습니다.
@@ -141,22 +141,22 @@ IS 서버는 처음 설정시 Administrator라는 계정이 기본으로 주어�
 - **Install packages on this instance now**  ( 체크 O )
     - 제품 트리에서 선택했던 패키지를 IS instance에 install 합니다
 
-![Untitled](/assets/img/Untitled%2015.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2015.png)
 
 browse 를 눌러서 아래 그림처럼 처음 압축을 미리 풀어놓으라고 말씀드렸던 디렉토리로 들어가면
 아래와 같이 여러 라이센스키들이 존재하는데  Integration Server 라이센스키를 선택하여 Select 합니다. 
 
-![Untitled](/assets/img/Untitled%2016.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2016.png)
 
 <span style="color:red">설정이 완료되셨다면 **Next** 를 누르면 아래 화면이 나옵니다.</span>
 
-![Untitled](/assets/img/Untitled%2017.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2017.png)
 
 데이터베이스 설정입니다. 설정해주셔도 되고 저는 테스트용이니 Embedded database로 체크 후 진행하겠습니다 .
 
 <span style="color:red">설정을 다 하셨으면 **Next** 를 눌러주면 아래 화면이 나옵니다. </span>
 
-![Untitled](/assets/img/Untitled%2018.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2018.png)
 
 다음은 Platform Manager 설정입니다. 차후 Command Central 사용을 고려하지 않는다면 체크박스를 풀으라고 해서 저는 풀어주고 진행하겠습니다.
 
@@ -181,9 +181,9 @@ browse 를 눌러서 아래 그림처럼 처음 압축을 미리 풀어놓으라
 > **Universal Messaging은 공용, 개인 및 무선 인프라 전반에 걸쳐 메시지 전달을 보장하는 메시지 지향 미들웨어 제품입니다**. Universal Messaging은 처음부터 다양한 네트워크를 통해 데이터를 전달하는 문제를 극복하기 위해 구축되었습니다. 웹 서버를 사용하거나 **방화벽 정책을 수정하지 않고도 보장된 메시징 기능**을 제공합니다.
 > 
 
-![Untitled](/assets/img/Untitled%2019.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2019.png)
 
-![Untitled](/assets/img/Untitled%2020.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2020.png)
 
 아까와 마찬가지로 Browser를 눌러서 UniversalMessaging 라이센스 키를 넣으신후 Select 를 눌러준 뒤 설정창을 다시 보겠습니다.
 
@@ -199,11 +199,11 @@ browse 를 눌러서 아래 그림처럼 처음 압축을 미리 풀어놓으라
 
 <span style="color:red">Next를 누른 후 아래 그림에서 Install 을 눌러주세요.</span>
 
-![Untitled](/assets/img/Untitled%2021.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2021.png)
 
-![Untitled](/assets/img/Untitled%2022.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2022.png)
 
-![Untitled](/assets/img/Untitled%2023.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2023.png)
 
 > 설치가 끝나면 오류 메시지가 표시될 수 있습니다( **설치 중에 1개의 보고 또는 경고가 발생했습니다** )
 평가판을 사용 하는데에는 아무런 영향이 없으므로 이 에러는 무시하셔도 됩니다. SoftwareAg 기술 커뮤니티에 공식적으로 올라온 내용을 확인하였습니다.
@@ -218,7 +218,7 @@ browse 를 눌러서 아래 그림처럼 처음 압축을 미리 풀어놓으라
 
 { **Installation directory }/IntegrationServer/instances/default/bin**
 
-![Untitled](/assets/img/Untitled%2024.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2024.png)
 
 해당 디렉토리로 이동하여 startup.bat 배치파일을 실행시킵니다.
 
@@ -226,13 +226,13 @@ browse 를 눌러서 아래 그림처럼 처음 압축을 미리 풀어놓으라
 
 모두 실행이 끝나고 세션이 아래 화면처럼 물리고 로그가 아래처럼 떠있다면 잘 실행 된 것입니다.
 
-![Untitled](/assets/img/Untitled%2025.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2025.png)
 
 이제 관리 페이지에 접속 해 보겠습니다.
 
 브라우저를 열고 localhost:{ primary portNumber } 를 쳐주시면 아래와 같은 화면이 나옵니다
 
-![Untitled](/assets/img/Untitled%2026.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2026.png)
 
 > 혹시 설치 하실때 primary port가 기억이 나지 않으신다면
 { **Installation directory }/IntegrationServer/instances/default/logs로 들어가시면**
@@ -242,7 +242,7 @@ server.log 라는 text 파일이 있습니다 해당 파일을 열어서 http �
 확인 해보시면 될 것 같습니다.
 > 
 
-![Untitled](/assets/img/Untitled%2027.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2027.png)
 
 다시 화면으로 돌아가서
 
@@ -250,7 +250,7 @@ Username 과 Password를 입력 해주시면 됩니다 Username은 Administrator
 
 설치할 때 설명드렸던 기본 계정 비밀번호 입니다. 저는 manage로 했으니 접속 해보겠습니다.
 
-![Untitled](/assets/img/Untitled%2028.png)
+![Untitled](/assets/img/2024-01-09-setup/Untitled%2028.png)
 
 접속이 잘 되셨다면 위와 같은 화면이 나오면 성공하신 겁니다.
 integration server 버전에 따라 관리 페이지 UI는 다를 수 있습니다.
