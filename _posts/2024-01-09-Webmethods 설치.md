@@ -5,7 +5,6 @@ categories: [Webmethods, 설치 및 개발가이드]
 tags: [EAI, webmethods]
 ---
 
-# Integration Server  설치
 
 > 이 포스트는 Free Trial 10.15 버전으로 진행합니다.
 해당 평가판은 64비트 시스템에서만 사용 할 수 있으니 확인 부탁드립니다.
