@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: Beaver # the main title
 
-tagline: 기억하기 위한 개발노트 # it will display as the sub-title
+tagline: Hi # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  자바 스프링 공부를 위한 블로그이며 각종 컴퓨터공학지식 및 에러에 대해서 공부하고 있습니다.
+  최신 웹 개발과 EAI 기술에 대한 경험을 공유하는 beaver의 블로그입니다. 새로운 것을 탐험하며 학습하고 얻은 지식을 기록하는 공간입니다. 기술의 세계에서 배운 것을 소중히 담아내어, 포스팅하고 있습니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
