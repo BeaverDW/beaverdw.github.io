@@ -3,6 +3,7 @@ title: "dashboard configuration"
 date: 2024-02-07 +0900
 categories: [Webmethods Administrator, 대시보드 사용]
 tags: [EAI, webmethods, Administrator]
+order: 7
 ---
 
 대시보드에 표시되는 통계를 수집하고 저장하는 데에는 메모리, JDBC 풀 연결, 스레드, 디스크 공간 등 IS 서버 리소스가 사용됩니다. IS 관리자 페이지에서는 대시보드에 사용되는 리소스를 제한하는 옵션을 사용 할 수 있습니다

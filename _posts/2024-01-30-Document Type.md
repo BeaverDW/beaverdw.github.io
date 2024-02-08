@@ -3,6 +3,7 @@ title: "Document Type"
 date: 2024-01-30 +0900
 categories: [Webmethods, 설치 및 개발가이드]
 tags: [EAI, webmethods]
+order: 4
 ---
 
 >웹메소드에서 사용하는 도큐먼트에 대해 간략하게 알아보고 실습에 대한 포스팅을 진행 해보겠습니다.
