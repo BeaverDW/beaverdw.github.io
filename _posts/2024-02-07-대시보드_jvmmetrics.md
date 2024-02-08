@@ -3,6 +3,7 @@ title: "JVM metrics tab"
 date: 2024-02-07 +0900
 categories: [Webmethods Administrator, 대시보드 사용]
 tags: [EAI, webmethods, Administrator]
+order: 3
 ---
 
 JVM(Java Virtual Machine) Metric 탭을 사용하면 IS 서버가 실행되는 JVM의 힙 메모리, 스레드 요약 및 가비지 수집 세부 정보를 볼 수 있습니다. 또한 CPU 및 메모리 사용량과 같은 운영 체제 리소스 정보를 시간에 따라 볼 수도 있습니다.
